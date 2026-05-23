@@ -36,3 +36,11 @@ button {
     padding: 10px 20px;
     cursor: pointer;
 }
+
+.player-img {
+    width: 300px;
+    max-width: 100%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 12px;
+}
